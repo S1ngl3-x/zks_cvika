@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="zks1.ClassToBeTestedTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-24T12:27:37" hostname="adam-ux310uq" time="0.033">
+  <properties/>
+  <testcase name="testGimmeHahaReturnsHaha()" classname="zks1.ClassToBeTestedTest" time="0.033"/>
+  <system-out><![CDATA[testing man
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
